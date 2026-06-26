@@ -1,0 +1,9 @@
+/* Agrega esto al final de styles.css */
+#habilidades {
+  padding: 20px;
+  background-color: #f5f5f5;
+}
+#habilidades ul {
+  list-style: disc;
+  padding-left: 20px;
+}
